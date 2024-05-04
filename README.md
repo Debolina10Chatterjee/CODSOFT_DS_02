@@ -22,6 +22,7 @@ To run the code for this project, you need the following Python libraries:
 4. **Model Evaluation**: Evaluate model performance using regression metrics like MAE, MSE, and R-squared.
 5. **Prediction**: Use the trained model to make predictions on new movie data.
 6. 🚀 Clone the repository:
+https://github.com/Debolina10Chatterjee/CODSOFT_DS_02.git
 
 
 ## 📁 Files
